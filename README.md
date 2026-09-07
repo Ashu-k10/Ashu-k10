@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Final Year Computer Engineer Student <br>🤝 I’m looking for help with ML Projects <br>👯 Ready for collaboration <br>🌱 I’m currently learning AIML and Computer Vision <br>💬 Ask me about AI Startups
+🔭 I’m currently Final Year Computer Engineer Student <br>🤝 I’m looking for help with ML Projects <br>👯 Ready for collaboration <br>🌱 I’m currently learning AIML and Computer Vision <br>💬 Ask me about AI Startups & Innovation Ideas
 
 
 ## 🌐 Socials:
