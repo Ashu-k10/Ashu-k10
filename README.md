@@ -59,26 +59,12 @@
       <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" />
       <img src="https://img.shields.io/badge/Anthropic%20API-Claude-D4A574?style=flat" />
     </td>
-    <td width="50%" valign="top">
-      <h4>✨ What's Next</h4>
-      <p>
-        Currently deep in academic research and literature review for the final-year project, while pushing Aapla Bazaar from architecture into real backend implementation.
-      </p>
-      <ul>
-        <li>Backend build-out for Aapla Bazaar (MVP → Growth → AI Scale)</li>
-        <li>Training and evaluating NPC RL models in Unity ML-Agents</li>
-        <li>Exploring more AI/ML integration across personal projects</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=,cs,js,python,Matplotlib,Sckit-learn,postgres,,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=,cs,js,python,mysql,postgres,py,sklearn,tensorflow,html,css,git,github,vscode" />
 </p>
 
 ---
