@@ -30,20 +30,6 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎮 AI-Driven Game Systems (Final Year Project)</h4>
-      <p>
-        A three-part Unity research project exploring adaptive game AI:
-      </p>
-      <ul>
-        <li><b>Intelligent NPC Framework</b> — Hybrid Behaviour Trees + Reinforcement Learning + real-time difficulty adjustment (Unity ML-Agents, PPO, ONNX, NavMesh)</li>
-        <li><b>Procedural Narrative Generation</b> — LLM-powered dynamic storytelling</li>
-        <li><b>Adaptive Player Modeling</b> — personalized gameplay driven by player behavior</li>
-      </ul>
-      <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />
-      <img src="https://img.shields.io/badge/ML--Agents-PPO-blue?style=flat" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
       <h4>🛒 Aapla Bazaar</h4>
       <p>
         A hyperlocal grocery delivery platform for Nashik, connecting local farmers directly with urban households, built for sub-30-minute delivery.
@@ -60,7 +46,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧘 FlowMind</h4>
+      <h4>🧘 Clean Automation </h4>
       <p>
         An AI-powered productivity companion for students, professionals, and entrepreneurs — from browser prototype to a production Android app.
       </p>
@@ -92,7 +78,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,js,ts,react,nodejs,kotlin,postgres,redis,html,css,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=,cs,js,python,Matplotlib,Sckit-learn,postgres,,html,css,git,github,vscode" />
 </p>
 
 ---
