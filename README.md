@@ -87,7 +87,7 @@
 ---
 
 <p align="center">
-  <i>“Good games feel alive because the AI behind them adapts — that's the problem I like solving.”</i>
+  <I>“Veni , Vidi , Vici”</i>
 </p>
 
 <p align="center">
