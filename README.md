@@ -48,12 +48,14 @@
     <td width="50%" valign="top">
       <h4>🧘 Clean Automation </h4>
       <p>
-        An AI-powered productivity companion for students, professionals, and entrepreneurs — from browser prototype to a production Android app.
+       An Automation Script Project in which - 
       </p>
       <ul>
-        <li>AI priority scoring, task management, habit tracking, calendar conflict detection</li>
-        <li>Live Anthropic API integration with a stateful chat interface</li>
-        <li>Rebuilt as a native Android app: Kotlin, Jetpack Compose, Room, Material3</li>
+        <li>Developed a Python-based automation tool to recursively scan directories and remove empty (0-byte) files.</li>
+        <li>Automated periodic execution using the schedule library for continuous directory maintenance./li>
+        <li>Generated timestamped log reports containing scanned files, deleted files, and cleanup summaries</li>
+        <li>Implemented directory validation, recursive traversal (os.walk), and command-line argument support for flexible execution.</li>
+        <li>Improved file system organization by automating repetitive cleanup tasks and maintaining detailed execution logs.</li>
       </ul>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" />
