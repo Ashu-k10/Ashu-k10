@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Ash K 👋</h1>
+<h1 align="center">Hi there, I'm Ashutosh Kadu 👋</h1>
 
-<h3 align="center">Computer Engineering Student | AIML | GenAI </h3>
+<h3 align="center">Computer Engineering Student | AIML | GenAI | Data Engineer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+AI-driven+Projects+&+Machine+Learning+Applications;Full-Stack+Developer+%7C+React+%2B+Node.js;Turning+Ideas+into+Shipped+Products;Always+Learning%2C+Always+Building" alt="Typing SVG" />
@@ -17,11 +17,11 @@
 ### 🚀 About Me
 
 - 🎓 Final-year **Computer Engineering** student at **D.Y. Patil College of Engineering (DYPCOE), Akurdi, Pune** — SPPU, Class of **2027**
-- 🎮 Passionate about **Game AI**, **interactive systems**, and building things that feel alive
-- 🛠️ Comfortable across the stack — from Unity/C# to React and Node.js
+- 🎮 Passionate about **Python**, **AIML**, **GenAI**,  and building things that feel alive
+- 🛠️ Comfortable across the stack — from FastAPI to React and Node.js
 - 🤖 Exploring how LLMs and reinforcement learning can make software genuinely adaptive
 - 💡 I like turning half-formed ideas into working, deployable products
-- 📫 Always open to collaborating on AI, game dev, or full-stack projects
+- 📫 Always open to collaborating on AI,GenAI & full-stack projects
 
 ---
 
