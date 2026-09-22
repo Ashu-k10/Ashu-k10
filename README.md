@@ -61,6 +61,7 @@
       <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" />
       <img src="https://img.shields.io/badge/Anthropic%20API-Claude-D4A574?style=flat" />
     </td>
+  </table>
 ---
 
 ### 🧰 Tech Stack
