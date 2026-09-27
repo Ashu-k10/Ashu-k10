@@ -68,7 +68,10 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src= "(https://skillicons.dev/icons?i=java,py,sklearn,github,mysql,opencv,postgres,pycharm,pytorch,vscode,anaconda&theme=dark)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,sklearn,github,mysql,opencv,postgres,pycharm,pytorch,vscode,anaconda&theme=dark">
+  </a>
+</p>
 
 ---
 
