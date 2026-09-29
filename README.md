@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ashutosh Kadu 👋</h1>
 
-<h3 align="center">Computer Engineering Student | AIML | GenAI | Data Engineer </h3>
+<h3 align="center">Computer Engineering Student | AIML | GenAI | Software Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+AI-driven+Projects+&+Machine+Learning+Applications;Full-Stack+Developer+%7C+React+%2B+Node.js;Turning+Ideas+into+Shipped+Products;Always+Learning%2C+Always+Building" alt="Typing SVG" />
