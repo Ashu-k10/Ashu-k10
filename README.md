@@ -89,7 +89,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFD23F,FF6B6B,4D96FF&height=180&section=header&text=Hey!%20I'm%20YOUR_NAME&fontSize=42&fontColor=1B1B3A&stroke=1B1B3A&strokeWidth=2&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFD23F,FF6B6B,4D96FF&height=180&section=header&text=Hey!%20I'm%20Ashutosh Kadu&fontSize=42&fontColor=1B1B3A&stroke=1B1B3A&strokeWidth=2&animation=twinkling" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=24&pause=1000&color=FF4D6D&center=true&vCenter=true&width=500&lines=Student+Dev+%F0%9F%8E%AE;Game+AI+Explorer+%F0%9F%A4%96;Building+fun+things+%E2%9C%A8" />
 
@@ -105,8 +105,6 @@
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashu-k10&bg_color=FFF3B0&color=FF4D6D&line=3A86FF&point=1B1B3A&area=true&area_color=FFD23F&hide_border=true&title_color=1B1B3A" width="95%" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFD23F,FF6B6B,4D96FF&height=100&section=footer" />
 
 </div>
 
