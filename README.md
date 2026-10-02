@@ -89,12 +89,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFD23F,FF6B6B,4D96FF&height=180&section=header&text=Hey!%20I'm%20Ashutosh Kadu&fontSize=42&fontColor=1B1B3A&stroke=1B1B3A&strokeWidth=2&animation=twinkling" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=24&pause=1000&color=FF4D6D&center=true&vCenter=true&width=500&lines=Student+Dev+%F0%9F%8E%AE;Game+AI+Explorer+%F0%9F%A4%96;Building+fun+things+%E2%9C%A8" />
-
-<br/><br/>
-
 <img height="190" src="https://github-readme-stats.vercel.app/api?username=Ashu-k10&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_color=1B1B3A&border_radius=20&bg_color=FFF3B0&title_color=FF4D6D&text_color=1B1B3A&icon_color=3A86FF&ring_color=FF4D6D" />
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu-k10&layout=compact&langs_count=8&border_color=1B1B3A&border_radius=20&bg_color=CDEFFF&title_color=3A86FF&text_color=1B1B3A" />
 
