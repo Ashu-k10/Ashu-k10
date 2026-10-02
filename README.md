@@ -85,14 +85,30 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" height="175" />
-  <img src="https://herokuapp.com" alt="GitHub Streak" height="175" />
-</p>
+<!-- Replace YOUR_USERNAME everywhere with your GitHub username, then paste this into your profile repo's README.md (repo name must equal your username) -->
 
-<p align="center">
-  <img src="https://vercel.app" alt="Top Languages" height="175" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFD23F,FF6B6B,4D96FF&height=180&section=header&text=Hey!%20I'm%20YOUR_NAME&fontSize=42&fontColor=1B1B3A&stroke=1B1B3A&strokeWidth=2&animation=twinkling" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=24&pause=1000&color=FF4D6D&center=true&vCenter=true&width=500&lines=Student+Dev+%F0%9F%8E%AE;Game+AI+Explorer+%F0%9F%A4%96;Building+fun+things+%E2%9C%A8" />
+
+<br/><br/>
+
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=Ashu-k10&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_color=1B1B3A&border_radius=20&bg_color=FFF3B0&title_color=FF4D6D&text_color=1B1B3A&icon_color=3A86FF&ring_color=FF4D6D" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu-k10&layout=compact&langs_count=8&border_color=1B1B3A&border_radius=20&bg_color=CDEFFF&title_color=3A86FF&text_color=1B1B3A" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Ashu-k10&background=FFE0F0&border=1B1B3A&ring=FF4D6D&fire=FF9F1C&currStreakLabel=1B1B3A&currStreakNum=1B1B3A&sideLabels=3A86FF&sideNums=1B1B3A&dates=1B1B3A&stroke=1B1B3A&border_radius=20" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashu-k10&bg_color=FFF3B0&color=FF4D6D&line=3A86FF&point=1B1B3A&area=true&area_color=FFD23F&hide_border=true&title_color=1B1B3A" width="95%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFD23F,FF6B6B,4D96FF&height=100&section=footer" />
+
+</div>
 
 ---
 
