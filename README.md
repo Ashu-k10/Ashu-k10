@@ -47,24 +47,30 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧘 Automation Projects </h4>
-      <p>
-       An Automation Scripts in which - 
-      </p>
-      <ul>
-        <li>Developed a Python-based automation tool to recursively scan directories and remove empty (0-byte) files.</li>
-        <li>Developed using Shutil , OS and Scheduling for Automating Repetitive Tasks /li>
-        <li>Generated timestamped log reports containing scanned files, deleted files, and cleanup summaries</li>
-        <li>Implemented directory validation, recursive traversal (os.walk), and command-line argument support for flexible execution.</li>
-        <li>Improved file system organization by automating repetitive cleanup tasks and maintaining detailed execution logs.</li>
-        <li>Made a  Github Automated Code Pusher for pushing code at particular time period </li>
-      </ul>
-      <img src="https://img.shields.io/badge/python"/>
-      <img src="https://img.shields.io/badge/os"/>
-      <img src="https://img.shields.io/badge/Schedule"/>
-      <img src="https://img.shields.io/badge/File Handling"/>
-    </td>
-  </table>
+<h4>🧘 Automation Projects</h4>
+
+<p>
+  An Automation Scripts in which -
+</p>
+
+<ul>
+  <li>Developed a Python-based automation tool to recursively scan directories and remove empty (0-byte) files.</li>
+  <li>Developed using Shutil, OS and Scheduling for automating repetitive tasks.</li>
+  <li>Generated timestamped log reports containing scanned files, deleted files, and cleanup summaries.</li>
+  <li>Implemented directory validation, recursive traversal (<code>os.walk</code>), and command-line argument support for flexible execution.</li>
+  <li>Improved file system organization by automating repetitive cleanup tasks and maintaining detailed execution logs.</li>
+  <li>Made a GitHub Automated Code Pusher for pushing code at a particular time period.</li>
+</ul>
+
+<!-- Technology Badges -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/OS-000000?style=for-the-badge&logo=linux&logoColor=white" alt="OS"/>
+<img src="https://img.shields.io/badge/Scheduling-FF6F00?style=for-the-badge&logo=clockify&logoColor=white" alt="Scheduling"/>
+<img src="https://img.shields.io/badge/Shutil-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Shutil"/>
+<img src="https://img.shields.io/badge/File%20Handling-6A5ACD?style=for-the-badge&logo=files&logoColor=white" alt="File Handling"/>
+<img src="https://img.shields.io/badge/GitHub%20Automation-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Automation"/>
+</td>
+</table>
 ---
 
 ### 🧰 Tech Stack
