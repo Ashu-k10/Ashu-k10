@@ -71,6 +71,22 @@
 <img src="https://img.shields.io/badge/File%20Handling-6A5ACD?style=for-the-badge&logo=files&logoColor=white" alt="File Handling"/>
 <img src="https://img.shields.io/badge/GitHub%20Automation-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Automation"/>
 </td>
+
+<h4> Deep Learning Projects </h4>
+
+<p>
+ Deep Learning Projects 
+
+<ul>
+  <li>Done lots of Projects on Deep Learning Fundamentals
+  <li>Used CNN,ANN,FNN & other Neurals networks </li>
+</ul>
+
+<!-- Technology Badges -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/NeuralNetworks-3776AB?style=for-the-badge&logo=AI&logoColor=white" alt="NeuralNetworks"/>
+
+</td>
 </table>
 ---
 
