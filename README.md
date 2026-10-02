@@ -43,7 +43,7 @@
         <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=light-blue" alt="React.js"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Claude-3776AB?style=for-the-badge&logo=claude&logoColor=orange" alt="Claude"/>
+      <img src="https://img.shields.io/badge/Claude-3776AB?style=for-the-badge&logo=claude&logoColor=Orange" alt="Claude"/>
     </td>
   </tr>
   <tr>
