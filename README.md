@@ -86,12 +86,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://vercel.app" alt="GitHub Stats" height="175" />
+  <img src="https://herokuapp.com" alt="GitHub Streak" height="175" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://vercel.app" alt="Top Languages" height="175" />
 </p>
 
 ---
