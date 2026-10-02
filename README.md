@@ -40,9 +40,9 @@
         <li>38-endpoint API design; Razorpay, Twilio, Firebase FCM integrations planned</li>
         <li>Used Claude for Vibe-coding the Project </li>
       </ul>
-        <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=light-blue" alt="React.js"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=react&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=react&logoColor=white" alt="postgresql"/>
+        <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/Claude-E68315?style=for-the-badge&logo=claude&logoColor=orange" alt="Claude"/>
     </td>
   </tr>
