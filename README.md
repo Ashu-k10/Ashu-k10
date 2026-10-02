@@ -32,12 +32,13 @@
     <td width="50%" valign="top">
       <h4>🛒 Aapla Bazaar</h4>
       <p>
-        A hyperlocal grocery delivery platform for Nashik, connecting local farmers directly with urban households, built for sub-30-minute delivery.
+        A hyperlocal grocery delivery platform for Pune, connecting local farmers directly with urban households, built for sub-30-minute delivery.
       </p>
       <ul>
         <li>React 18 frontend with cart, live order tracking, and auth flows</li>
         <li>Backend architected on Node.js, Express, Prisma, PostgreSQL, Redis</li>
         <li>38-endpoint API design; Razorpay, Twilio, Firebase FCM integrations planned</li>
+        <li>Used Claude for Vibe-coding the Project </li>
       </ul>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
