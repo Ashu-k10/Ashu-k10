@@ -47,16 +47,17 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧘 Clean Automation </h4>
+      <h4>🧘 Automation Projects </h4>
       <p>
-       An Automation Script Project in which - 
+       An Automation Scripts in which - 
       </p>
       <ul>
         <li>Developed a Python-based automation tool to recursively scan directories and remove empty (0-byte) files.</li>
-        <li>Automated periodic execution using the schedule library for continuous directory maintenance./li>
+        <li>Developed using Shutil , OS and Scheduling for Automating Repetitive Tasks /li>
         <li>Generated timestamped log reports containing scanned files, deleted files, and cleanup summaries</li>
         <li>Implemented directory validation, recursive traversal (os.walk), and command-line argument support for flexible execution.</li>
         <li>Improved file system organization by automating repetitive cleanup tasks and maintaining detailed execution logs.</li>
+        <li>Made a  Github Automated Code Pusher for pushing code at particular time period </li>
       </ul>
       <img src="https://img.shields.io/badge/python"/>
       <img src="https://img.shields.io/badge/os"/>
