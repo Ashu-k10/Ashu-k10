@@ -263,8 +263,6 @@ or exploring these projects, feel free to connect.
 
 ---
 
-**Recommended structure:** keep this as a **portfolio/index README**, while each major project such as **Aapla Bazaar**, **GitHub Code Pusher**, and your individual Deep Learning projects should have its own repository-specific `README.md`. That makes your GitHub much easier for recruiters or developers to navigate.
-
 ### 🧰 Tech Stack
 
 <p align="center">
@@ -276,8 +274,6 @@ or exploring these projects, feel free to connect.
 ---
 
 ### 📊 GitHub Stats
-
-<!-- Replace YOUR_USERNAME everywhere with your GitHub username, then paste this into your profile repo's README.md (repo name must equal your username) -->
 
 <div align="center">
 
