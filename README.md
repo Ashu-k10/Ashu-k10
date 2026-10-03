@@ -335,7 +335,7 @@ The main goals of these projects are to:
 
 ## 📈 Continuous Learning
 
-```text
+``text
 Software Development
         │
         ├── Full Stack
