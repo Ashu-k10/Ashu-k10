@@ -45,7 +45,7 @@
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/Claude-FF9900?style=for-the-badge&logo=claude&logoColor=orange" alt="Claude"/>
     </td>
-  </tr>
+  
   <tr>
     <td width="50%" valign="top">
 <h4>🧘 Automation Projects</h4>
@@ -87,6 +87,7 @@
 <img src="https://img.shields.io/badge/NeuralNetworks-3776AB?style=for-the-badge&logo=AI&logoColor=white" alt="NeuralNetworks"/>
 
 </td>
+</tr>
 </table>
 ---
 
