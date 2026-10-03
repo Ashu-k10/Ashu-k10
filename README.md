@@ -164,6 +164,7 @@ neural networks, predictive modeling, and model evaluation.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+![RNN](https://img.shields.io/badge/RNN-4CAF50?style=for-the-badge&logo=python&logoColor=white)
 ![ANN](https://img.shields.io/badge/ANN-4CAF50?style=for-the-badge&logo=python&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![FNN](https://img.shields.io/badge/FNN-2196F3?style=for-the-badge&logo=python&logoColor=white)
