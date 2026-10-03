@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=6366f1&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/ashutosh-kadu-b2ba972a3/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ashutoshkadu6@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
