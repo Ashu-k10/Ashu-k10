@@ -27,125 +27,208 @@
 
 ### 🧠 Featured Work
 
-<table>
-  <tr>
 
-    <!-- Aapla Bazaar -->
-    <td width="50%" valign="top">
-      <h4>🛒 Aapla Bazaar</h4>
+# 🚀 Projects Portfolio
 
-      <p>
-        A hyperlocal grocery delivery platform for Pune, connecting local
-        farmers directly with urban households, built for sub-30-minute delivery.
-      </p>
+A collection of projects covering **Full-Stack Development, Python Automation,
+Machine Learning, Deep Learning, Backend Development, and Data Science**.
 
-      <ul>
-        <li>React 18 frontend with cart, live order tracking, and auth flows.</li>
-        <li>Backend architected on Node.js, Express, Prisma, PostgreSQL, and Redis.</li>
-        <li>38-endpoint API design; Razorpay, Twilio, and Firebase FCM integrations planned.</li>
-        <li>Used Claude for vibe-coding the project.</li>
-      </ul>
+These projects are focused on building practical applications, solving
+real-world problems, and strengthening software engineering and AI/ML skills.
 
-      <!-- Technology Badges -->
-      <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/Claude-FF9900?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
-    </td>
+---
+
+## 📌 Project Categories
+
+| Category | Focus |
+|---|---|
+| 🛒 Aapla Bazaar | Full-Stack Web Development |
+| ⚙️ Automation Projects | Python & System Automation |
+| 🧠 Deep Learning Projects | Neural Networks & Machine Learning |
+| 🚀 More Projects | AI, Cloud, Backend & Data Science |
+
+---
+
+# 🛒 Aapla Bazaar
+
+### Hyperlocal Grocery Delivery Platform
+
+A hyperlocal grocery delivery platform for Pune that connects local farmers
+with urban households through a fast and convenient online shopping experience.
+
+### ✨ Key Features
+
+- 🛍️ Product browsing and shopping cart
+- 🔐 User authentication
+- 📦 Order management
+- 🚚 Live order-tracking flows
+- 🔌 REST API architecture
+- 💳 Planned Razorpay payment integration
+- 📱 Planned Twilio communication integration
+- 🔔 Planned Firebase FCM notifications
+- ⚡ Redis-based backend support
+- 🗄️ PostgreSQL database
+- 🔷 Prisma ORM
+
+### 🏗️ Architecture
+
+``
+                    ┌─────────────────────┐
+                    │      React 18       │
+                    │     Frontend        │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │    REST APIs        │
+                    │   Express.js        │
+                    └──────────┬──────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              │                │                │
+              ▼                ▼                ▼
+        ┌───────────┐    ┌───────────┐   ┌───────────┐
+        │  Prisma   │    │   Redis   │   │ External  │
+        │    ORM    │    │   Cache    │   │ Services  │
+        └─────┬─────┘    └───────────┘   └───────────┘
+              │
+              ▼
+        ┌──────────────┐
+        │ PostgreSQL   │
+        │   Database   │
+        └──────────────┘
+```
+
+### 📊 Backend
+
+- **38 REST API endpoints**
+- User APIs
+- Product APIs
+- Cart APIs
+- Order APIs
+- Delivery workflows
+- Authentication flows
+
+### 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🤖 Development Assistance
+
+Claude AI was used as a development assistant for rapid prototyping,
+implementation, debugging, and iterative development.
+
+---
+
+# ⚙️ Automation Projects
+
+A collection of Python automation tools designed to eliminate repetitive
+system, file-management, and development tasks.
+
+## 📁 Empty File Cleanup Automation
+
+A Python utility that recursively scans directories and removes
+**empty (0-byte) files**.
+
+### ✨ Features
+
+- 🔍 Recursive directory scanning
+- 🗑️ Automatic removal of empty files
+- 📂 Directory validation
+- 🔄 `os.walk()` based traversal
+- 🖥️ Command-line argument support
+- 📝 Timestamped execution logs
+- 📊 Cleanup summaries
+- ⚡ Automated repetitive file-system operations
+
+### 🔄 Workflow
 
 
-    <!-- Automation Projects -->
-    <td width="50%" valign="top">
-      <h4>🧘 Automation Projects</h4>
+User Input
+    │
+    ▼
+Directory Validation
+    │
+    ▼
+Recursive Scan
+    │
+    ▼
+Check File Size
+    │
+    ├── 0 Bytes ──────► Delete File
+    │
+    └── > 0 Bytes ────► Keep File
+                           │
+                           ▼
+                     Generate Log
 
-      <p>
-        A collection of Python-based automation scripts designed to
-        automate repetitive system and development tasks.
-      </p>
 
-      <ul>
-        <li>
-          Developed a Python-based automation tool to recursively scan
-          directories and remove empty (0-byte) files.
-        </li>
+### 🛠️ Tech Stack
 
-        <li>
-          Developed using Shutil, OS, and Scheduling for automating
-          repetitive tasks.
-        </li>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OS](https://img.shields.io/badge/OS-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Shutil](https://img.shields.io/badge/Shutil-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scheduling](https://img.shields.io/badge/Scheduling-FF6F00?style=for-the-badge&logo=clockify&logoColor=white)
+![File Automation](https://img.shields.io/badge/File%20Automation-6A5ACD?style=for-the-badge&logo=files&logoColor=white)
 
-        <li>
-          Generated timestamped log reports containing scanned files,
-          deleted files, and cleanup summaries.
-        </li>
+---
 
-        <li>
-          Implemented directory validation, recursive traversal
-          (<code>os.walk</code>), and command-line argument support
-          for flexible execution.
-        </li>
+## 🤖 GitHub Automated Code Pusher
 
-        <li>
-          Improved file system organization by automating repetitive
-          cleanup tasks and maintaining detailed execution logs.
-        </li>
+A Python-based automation tool designed to automate scheduled
+GitHub repository updates.
 
-        <li>
-          Built a GitHub Automated Code Pusher for pushing code at
-          scheduled time intervals.
-        </li>
-      </ul>
+### ✨ Features
 
-      <!-- Technology Badges -->
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/OS-000000?style=for-the-badge&logo=linux&logoColor=white" alt="OS"/>
-      <img src="https://img.shields.io/badge/Scheduling-FF6F00?style=for-the-badge&logo=clockify&logoColor=white" alt="Scheduling"/>
-      <img src="https://img.shields.io/badge/Shutil-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Shutil"/>
-      <img src="https://img.shields.io/badge/File%20Handling-6A5ACD?style=for-the-badge&logo=files&logoColor=white" alt="File Handling"/>
-      <img src="https://img.shields.io/badge/GitHub%20Automation-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Automation"/>
-    </td>
+- 📁 Repository management
+- 🔄 Automated Git operations
+- ⏰ Scheduled execution
+- 📝 Execution logging
+- ⚡ Repetitive commit/push workflow automation
 
-  </tr>
+### 🛠️ Tech Stack
 
-  <tr>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=clockify&logoColor=white)
 
-    <!-- Deep Learning Projects -->
-    <td width="50%" valign="top">
-      <h4>🧠 Deep Learning Projects</h4>
+---
 
-      <p>
-        A collection of projects focused on implementing and understanding
-        Deep Learning fundamentals and neural network architectures.
-      </p>
+# 🧠 Deep Learning Projects
 
-      <ul>
-        <li>
-          Completed multiple projects covering Deep Learning fundamentals.
-        </li>
+A collection of machine learning and deep learning projects focused on
+neural networks, predictive modeling, and model evaluation.
 
-        <li>
-          Implemented CNN, ANN, FNN, and other neural network architectures.
-        </li>
+### 🔬 Areas Covered
 
-        <li>
-          Worked on classification, prediction, model training,
-          and evaluation tasks.
-        </li>
-      </ul>
+- Artificial Neural Networks
+- Convolutional Neural Networks
+- Feedforward Neural Networks
+- Classification
+- Prediction
+- Data preprocessing
+- Model training
+- Model evaluation
+- Performance analysis
 
-      <!-- Technology Badges -->
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge&logo=ai&logoColor=white" alt="Neural Networks"/>
-      <img src="https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white" alt="CNN"/>
-      <img src="https://img.shields.io/badge/ANN-4CAF50?style=for-the-badge&logo=python&logoColor=white" alt="ANN"/>
-    </td>
+### 🧩 Neural Network Architectures
 
-    <!-- Empty fourth column -->
-    <td width="50%" valign="top">
-    </td>
-
-  </tr>
-</table>
+`
+                 Deep Learning
+                       │
+          ┌────────────┼────────────┐
+          │            │            │
+          ▼            ▼            ▼
+         ANN          CNN          FNN
+          │            │            │
+          └────────────┼────────────┘
+                      
 ---
 
 ### 🧰 Tech Stack
