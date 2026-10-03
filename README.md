@@ -118,7 +118,7 @@ with urban households through a fast and convenient online shopping experience.
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-DC382D?style=for-the-badge&logo=claude&logoColor=white)
 
 
 ### 🤖 Development Assistance
