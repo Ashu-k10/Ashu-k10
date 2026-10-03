@@ -168,6 +168,8 @@ neural networks, predictive modeling, and model evaluation.
 ![CNN](https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![FNN](https://img.shields.io/badge/FNN-2196F3?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-F7931E?style=for-the-badge&logo=LSTM&logoColor=white)
+
 
 ---
 
