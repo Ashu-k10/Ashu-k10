@@ -28,6 +28,7 @@
 ### 🧠 Featured Work
 
 
+```markdown
 # 🚀 Projects Portfolio
 
 A collection of projects covering **Full-Stack Development, Python Automation,
@@ -72,7 +73,7 @@ with urban households through a fast and convenient online shopping experience.
 
 ### 🏗️ Architecture
 
-``
+```text
                     ┌─────────────────────┐
                     │      React 18       │
                     │     Frontend        │
@@ -148,7 +149,7 @@ A Python utility that recursively scans directories and removes
 
 ### 🔄 Workflow
 
-
+```text
 User Input
     │
     ▼
@@ -166,7 +167,7 @@ Check File Size
                            │
                            ▼
                      Generate Log
-
+```
 
 ### 🛠️ Tech Stack
 
@@ -219,7 +220,7 @@ neural networks, predictive modeling, and model evaluation.
 
 ### 🧩 Neural Network Architectures
 
-`
+```text
                  Deep Learning
                        │
           ┌────────────┼────────────┐
@@ -228,8 +229,144 @@ neural networks, predictive modeling, and model evaluation.
          ANN          CNN          FNN
           │            │            │
           └────────────┼────────────┘
-                      
+                       │
+                       ▼
+                Model Training
+                       │
+                       ▼
+                  Prediction
+                       │
+                       ▼
+                  Evaluation
+```
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+![ANN](https://img.shields.io/badge/ANN-4CAF50?style=for-the-badge&logo=python&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FNN](https://img.shields.io/badge/FNN-2196F3?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ---
+
+# 🚀 More Projects
+
+Continuously building projects across software development, automation,
+data science, artificial intelligence, and cloud technologies.
+
+### 🔭 Areas of Development
+
+- 🤖 AI / Machine Learning applications
+- 🧠 Deep Learning
+- ☁️ Cloud & Backend Development
+- 🔧 Developer Automation
+- 📊 Data Analytics
+- 📈 Predictive Modeling
+- 🌐 Full-Stack Web Applications
+- 🗄️ Database & API Development
+
+> 🚧 More projects coming soon...
+
+---
+
+# 💡 Skills Demonstrated
+
+Through these projects, the following technical areas are being practiced:
+
+### 💻 Programming
+
+- Python
+- JavaScript
+- SQL
+
+### 🌐 Web Development
+
+- React
+- Node.js
+- Express.js
+- REST APIs
+
+### 🗄️ Databases
+
+- PostgreSQL
+- Redis
+- Prisma ORM
+
+### 🤖 AI / ML
+
+- Machine Learning
+- Deep Learning
+- ANN
+- CNN
+- FNN
+- Scikit-learn
+
+### ⚙️ Automation
+
+- OS automation
+- File handling
+- Scheduling
+- Git/GitHub automation
+- CLI tools
+
+---
+
+# 🎯 Project Goals
+
+The main goals of these projects are to:
+
+- Build practical software engineering experience
+- Strengthen backend and API development skills
+- Develop automation solutions for repetitive tasks
+- Understand machine learning and deep learning workflows
+- Work with databases and scalable application architectures
+- Build projects that solve practical problems
+- Continuously explore modern software and AI technologies
+
+---
+
+## 📈 Continuous Learning
+
+```text
+Software Development
+        │
+        ├── Full Stack
+        ├── Backend
+        ├── APIs
+        └── Databases
+                │
+                ▼
+          Automation
+                │
+                ▼
+          Data Science
+                │
+                ▼
+       Machine Learning
+                │
+                ▼
+        Deep Learning
+                │
+                ▼
+        Artificial Intelligence
+                │
+                ▼
+          Cloud / DevOps
+```
+
+---
+
+## 📬 Connect
+
+If you are interested in collaborating, discussing technology,
+or exploring these projects, feel free to connect.
+
+⭐ Star the repositories if you find them useful!
+```
+
+**Recommended structure:** keep this as a **portfolio/index README**, while each major project such as **Aapla Bazaar**, **GitHub Code Pusher**, and your individual Deep Learning projects should have its own repository-specific `README.md`. That makes your GitHub much easier for recruiters or developers to navigate.
 
 ### 🧰 Tech Stack
 
