@@ -280,7 +280,7 @@ Through these projects, the following technical areas are being practiced:
 ### 💻 Programming
 
 - Python
-- JavaScript
+- C++
 - SQL
 
 ### 🌐 Web Development
@@ -288,13 +288,16 @@ Through these projects, the following technical areas are being practiced:
 - React
 - Node.js
 - Express.js
+- Claude
+- Streamlit
+- FastAPI
 - REST APIs
 
 ### 🗄️ Databases
 
 - PostgreSQL
+- MysSQL
 - Redis
-- Prisma ORM
 
 ### 🤖 AI / ML
 
@@ -303,6 +306,7 @@ Through these projects, the following technical areas are being practiced:
 - ANN
 - CNN
 - FNN
+- GenAI
 - Scikit-learn
 
 ### ⚙️ Automation
@@ -335,7 +339,6 @@ The main goals of these projects are to:
 Software Development
         │
         ├── Full Stack
-        ├── Backend
         ├── APIs
         └── Databases
                 │
@@ -353,9 +356,7 @@ Software Development
                 │
                 ▼
         Artificial Intelligence
-                │
-                ▼
-          Cloud / DevOps
+
 ```
 
 ---
