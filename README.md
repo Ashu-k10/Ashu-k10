@@ -28,7 +28,7 @@
 ### 🧠 Featured Work
 
 
-```markdown
+
 # 🚀 Projects Portfolio
 
 A collection of projects covering **Full-Stack Development, Python Automation,
@@ -36,17 +36,6 @@ Machine Learning, Deep Learning, Backend Development, and Data Science**.
 
 These projects are focused on building practical applications, solving
 real-world problems, and strengthening software engineering and AI/ML skills.
-
----
-
-## 📌 Project Categories
-
-| Category | Focus |
-|---|---|
-| 🛒 Aapla Bazaar | Full-Stack Web Development |
-| ⚙️ Automation Projects | Python & System Automation |
-| 🧠 Deep Learning Projects | Neural Networks & Machine Learning |
-| 🚀 More Projects | AI, Cloud, Backend & Data Science |
 
 ---
 
@@ -71,34 +60,7 @@ with urban households through a fast and convenient online shopping experience.
 - 🗄️ PostgreSQL database
 - 🔷 Prisma ORM
 
-### 🏗️ Architecture
-
-```text
-                    ┌─────────────────────┐
-                    │      React 18       │
-                    │     Frontend        │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │    REST APIs        │
-                    │   Express.js        │
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              │                │                │
-              ▼                ▼                ▼
-        ┌───────────┐    ┌───────────┐   ┌───────────┐
-        │  Prisma   │    │   Redis   │   │ External  │
-        │    ORM    │    │   Cache    │   │ Services  │
-        └─────┬─────┘    └───────────┘   └───────────┘
-              │
-              ▼
-        ┌──────────────┐
-        │ PostgreSQL   │
-        │   Database   │
-        └──────────────┘
-```
+---
 
 ### 📊 Backend
 
@@ -149,27 +111,6 @@ A Python utility that recursively scans directories and removes
 - 📊 Cleanup summaries
 - ⚡ Automated repetitive file-system operations
 
-### 🔄 Workflow
-
-```text
-User Input
-    │
-    ▼
-Directory Validation
-    │
-    ▼
-Recursive Scan
-    │
-    ▼
-Check File Size
-    │
-    ├── 0 Bytes ──────► Delete File
-    │
-    └── > 0 Bytes ────► Keep File
-                           │
-                           ▼
-                     Generate Log
-```
 
 ### 🛠️ Tech Stack
 
@@ -219,29 +160,7 @@ neural networks, predictive modeling, and model evaluation.
 - Model training
 - Model evaluation
 - Performance analysis
-
-### 🧩 Neural Network Architectures
-
-```text
-                 Deep Learning
-                       │
-          ┌────────────┼────────────┐
-          │            │            │
-          ▼            ▼            ▼
-         ANN          CNN          FNN
-          │            │            │
-          └────────────┼────────────┘
-                       │
-                       ▼
-                Model Training
-                       │
-                       ▼
-                  Prediction
-                       │
-                       ▼
-                  Evaluation
-```
-
+- 
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -333,41 +252,14 @@ The main goals of these projects are to:
 
 ---
 
-## 📈 Continuous Learning
-
-``text
-Software Development
-        │
-        ├── Full Stack
-        ├── APIs
-        └── Databases
-                │
-                ▼
-          Automation
-                │
-                ▼
-          Data Science
-                │
-                ▼
-       Machine Learning
-                │
-                ▼
-        Deep Learning
-                │
-                ▼
-        Artificial Intelligence
-
-```
-
----
-
 ## 📬 Connect
 
 If you are interested in collaborating, discussing technology,
 or exploring these projects, feel free to connect.
 
 ⭐ Star the repositories if you find them useful!
-```
+
+---
 
 **Recommended structure:** keep this as a **portfolio/index README**, while each major project such as **Aapla Bazaar**, **GitHub Code Pusher**, and your individual Deep Learning projects should have its own repository-specific `README.md`. That makes your GitHub much easier for recruiters or developers to navigate.
 
