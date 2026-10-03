@@ -29,65 +29,122 @@
 
 <table>
   <tr>
+
+    <!-- Aapla Bazaar -->
     <td width="50%" valign="top">
       <h4>🛒 Aapla Bazaar</h4>
+
       <p>
-        A hyperlocal grocery delivery platform for Pune, connecting local farmers directly with urban households, built for sub-30-minute delivery.
+        A hyperlocal grocery delivery platform for Pune, connecting local
+        farmers directly with urban households, built for sub-30-minute delivery.
       </p>
+
       <ul>
-        <li>React 18 frontend with cart, live order tracking, and auth flows</li>
-        <li>Backend architected on Node.js, Express, Prisma, PostgreSQL, Redis</li>
-        <li>38-endpoint API design; Razorpay, Twilio, Firebase FCM integrations planned</li>
-        <li>Used Claude for Vibe-coding the Project </li>
+        <li>React 18 frontend with cart, live order tracking, and auth flows.</li>
+        <li>Backend architected on Node.js, Express, Prisma, PostgreSQL, and Redis.</li>
+        <li>38-endpoint API design; Razorpay, Twilio, and Firebase FCM integrations planned.</li>
+        <li>Used Claude for vibe-coding the project.</li>
       </ul>
-        <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
+
+      <!-- Technology Badges -->
+      <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/Claude-FF9900?style=for-the-badge&logo=claude&logoColor=orange" alt="Claude"/>
+      <img src="https://img.shields.io/badge/Claude-FF9900?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
     </td>
-  
-  <tr>
+
+
+    <!-- Automation Projects -->
     <td width="50%" valign="top">
-<h4>🧘 Automation Projects</h4>
+      <h4>🧘 Automation Projects</h4>
 
-<p>
-  An Automation Scripts in which -
-</p>
+      <p>
+        A collection of Python-based automation scripts designed to
+        automate repetitive system and development tasks.
+      </p>
 
-<ul>
-  <li>Developed a Python-based automation tool to recursively scan directories and remove empty (0-byte) files.</li>
-  <li>Developed using Shutil, OS and Scheduling for automating repetitive tasks.</li>
-  <li>Generated timestamped log reports containing scanned files, deleted files, and cleanup summaries.</li>
-  <li>Implemented directory validation, recursive traversal (<code>os.walk</code>), and command-line argument support for flexible execution.</li>
-  <li>Improved file system organization by automating repetitive cleanup tasks and maintaining detailed execution logs.</li>
-  <li>Made a GitHub Automated Code Pusher for pushing code at a particular time period.</li>
-</ul>
+      <ul>
+        <li>
+          Developed a Python-based automation tool to recursively scan
+          directories and remove empty (0-byte) files.
+        </li>
 
-<!-- Technology Badges -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/OS-000000?style=for-the-badge&logo=linux&logoColor=white" alt="OS"/>
-<img src="https://img.shields.io/badge/Scheduling-FF6F00?style=for-the-badge&logo=clockify&logoColor=white" alt="Scheduling"/>
-<img src="https://img.shields.io/badge/Shutil-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Shutil"/>
-<img src="https://img.shields.io/badge/File%20Handling-6A5ACD?style=for-the-badge&logo=files&logoColor=white" alt="File Handling"/>
-<img src="https://img.shields.io/badge/GitHub%20Automation-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Automation"/>
-</td>
+        <li>
+          Developed using Shutil, OS, and Scheduling for automating
+          repetitive tasks.
+        </li>
 
-<h4> Deep Learning Projects </h4>
+        <li>
+          Generated timestamped log reports containing scanned files,
+          deleted files, and cleanup summaries.
+        </li>
 
-<p>
- Deep Learning Projects 
+        <li>
+          Implemented directory validation, recursive traversal
+          (<code>os.walk</code>), and command-line argument support
+          for flexible execution.
+        </li>
 
-<ul>
-  <li>Done lots of Projects on Deep Learning Fundamentals
-  <li>Used CNN,ANN,FNN & other Neurals networks </li>
-</ul>
+        <li>
+          Improved file system organization by automating repetitive
+          cleanup tasks and maintaining detailed execution logs.
+        </li>
 
-<!-- Technology Badges -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/NeuralNetworks-3776AB?style=for-the-badge&logo=AI&logoColor=white" alt="NeuralNetworks"/>
+        <li>
+          Built a GitHub Automated Code Pusher for pushing code at
+          scheduled time intervals.
+        </li>
+      </ul>
 
-</td>
-</tr>
+      <!-- Technology Badges -->
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/OS-000000?style=for-the-badge&logo=linux&logoColor=white" alt="OS"/>
+      <img src="https://img.shields.io/badge/Scheduling-FF6F00?style=for-the-badge&logo=clockify&logoColor=white" alt="Scheduling"/>
+      <img src="https://img.shields.io/badge/Shutil-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Shutil"/>
+      <img src="https://img.shields.io/badge/File%20Handling-6A5ACD?style=for-the-badge&logo=files&logoColor=white" alt="File Handling"/>
+      <img src="https://img.shields.io/badge/GitHub%20Automation-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Automation"/>
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <!-- Deep Learning Projects -->
+    <td width="50%" valign="top">
+      <h4>🧠 Deep Learning Projects</h4>
+
+      <p>
+        A collection of projects focused on implementing and understanding
+        Deep Learning fundamentals and neural network architectures.
+      </p>
+
+      <ul>
+        <li>
+          Completed multiple projects covering Deep Learning fundamentals.
+        </li>
+
+        <li>
+          Implemented CNN, ANN, FNN, and other neural network architectures.
+        </li>
+
+        <li>
+          Worked on classification, prediction, model training,
+          and evaluation tasks.
+        </li>
+      </ul>
+
+      <!-- Technology Badges -->
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge&logo=ai&logoColor=white" alt="Neural Networks"/>
+      <img src="https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white" alt="CNN"/>
+      <img src="https://img.shields.io/badge/ANN-4CAF50?style=for-the-badge&logo=python&logoColor=white" alt="ANN"/>
+    </td>
+
+    <!-- Empty fourth column -->
+    <td width="50%" valign="top">
+    </td>
+
+  </tr>
 </table>
 ---
 
