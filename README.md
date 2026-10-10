@@ -291,7 +291,7 @@ or exploring these projects, feel free to connect.
 ---
 
 <p align="center">
-  <I>“Veni , Vidi , Vici ”</i>
+  <I>“Veni , Vidi , Vici”</i>
 </p>
 
 <p align="center">
