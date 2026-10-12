@@ -206,9 +206,8 @@ Through these projects, the following technical areas are being practiced:
 
 ### 🌐 Web Development
 
-- React
-- Node.js
-- Express.js
+- Django
+- Flask
 - Claude
 - Streamlit
 - FastAPI
@@ -218,7 +217,7 @@ Through these projects, the following technical areas are being practiced:
 
 - PostgreSQL
 - MysSQL
-- Redis
+- MongoDB
 
 ### 🤖 AI / ML
 
